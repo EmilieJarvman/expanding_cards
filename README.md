@@ -1,4 +1,4 @@
-# expanding_cards
+# Expanding Cards
 
 ## Udemy - 50 projects in 50 days
 Brad Traversy
